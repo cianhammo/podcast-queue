@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cian's Podcast Queue</title>
+    <link>https://cianhammo.github.io/podcast-queue/</link>
+    <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Curated GTM / co-founder / fundraising podcast episodes.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Apr 2026 19:04:15 +0000</lastBuildDate>
+    <itunes:author>Cian</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Business"/>
+    <item>
+      <title>20Sales: Everything You Know About Sales Playbooks is Wrong | How to Hire and Train Your First Sales Hires | How to Crush Pipeline and Deal Reviews as a Team | How to Structure Sales Teams and Sales Comp Plans with Julian Teixeira, CRO @ 1Password</title>
+      <description>Show: 20VC — Originally: Fri, 07 Mar 2025 — Score: 75 — Directly relevant to sales: hiring, training, pipeline management, team structure, and compensation plans.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/20Sales-_Julian_Teixeira_CRO__1Password.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">ecf04d304d5e7404156d033b34185a47427b4427</guid>
+      <pubDate>Sun, 26 Apr 2026 18:52:05 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-everything-you-know-about-sales-playbooks-is-wrong-how-to-hire-and-train-your-first-sales-hires-how-to-crush-pipeline-and-deal-reviews-as-a-team-how-to-structure-sales-teams-and-sales-comp-plans-with-julian-teixeira-cro-1password</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Fri, 07 Mar 2025 — Score: 75 — Directly relevant to sales: hiring, training, pipeline management, team structure, and compensation plans.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: Sierra: Inside Silicon Valley's Fastest Growing Sales Machine &amp; How to Prospect, Outbound and Close Enterprise Deals in AI</title>
+      <description>Show: 20VC — Originally: Fri, 02 May 2025 — Score: 75 — Directly relevant: enterprise sales, AI, prospecting, and closing deals. Good for GTM.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Updated-Reggie_Marable__Sierra.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">24053355ef7376dd669ad60182fed2f8c4526af5</guid>
+      <pubDate>Sun, 26 Apr 2026 18:52:04 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-sierra-inside-silicon-valleys-fastest-growing-sales-machine-how-to-prospect-outbound-and-close-enterprise-deals-in-ai</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Fri, 02 May 2025 — Score: 75 — Directly relevant: enterprise sales, AI, prospecting, and closing deals. Good for GTM.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: $0-$3.7BN: The Databricks CRO's Playbook to Build the Fastest GTM Engine in SaaS History | How Databricks Beat Snowflake | How To Build a Sales Org of 5,000 and Close $190M Deals with Ron Gabrisko</title>
+      <description>Show: 20VC — Originally: Mon, 04 Aug 2025 — Score: 75 — Directly relevant to building a GTM engine and scaling sales, especially for enterprise.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Ron_Gabrisko__Databricks.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">cd435f722b1245753c371248cba39c8f2e4347ef</guid>
+      <pubDate>Sun, 26 Apr 2026 18:52:01 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-0-4bn-the-databricks-cros-playbook-to-build-the-fastest-gtm-engine-in-saas-history-how-databricks-beat-snowflake-how-to-build-a-sales-org-of-5000-and-close-190m-deals-with-ron-gabrisko</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Mon, 04 Aug 2025 — Score: 75 — Directly relevant to building a GTM engine and scaling sales, especially for enterprise.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: Scaling Snowflake from $0-$3BN in ARR | Snowflake vs Databricks: My Biggest Lessons | Why Customer Success is BS and What Replaces It with Chris Chris Degnan</title>
+      <description>Show: 20VC — Originally: Fri, 10 Oct 2025 — Score: 75 — Focuses on scaling sales from $0-$3B, building a sales team, and hiring sales leaders, relevant to early-stage GTM.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Chris_Degnan__Snowflake_2.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">c06e7c0a2a5b9189e8dfd65f45b0ecca8ac9f3fc</guid>
+      <pubDate>Sun, 26 Apr 2026 18:52:00 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-scaling-snowflake-from-0-3bn-in-arr-snowflake-vs-databricks-my-biggest-lessons-why-customer-success-is-bs-and-what-replaces-it-with-chris-chris-degnan</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Fri, 10 Oct 2025 — Score: 75 — Focuses on scaling sales from $0-$3B, building a sales team, and hiring sales leaders, relevant to early-stage GTM.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: Why You Need a CRO Pre-Product | Why Remote Sales Teams Do Not Work | How Snowflake Built a Sales Machine with Chad Peets</title>
+      <description>Show: 20VC — Originally: Fri, 07 Nov 2025 — Score: 75 — Directly relevant to building a sales machine and early sales team structure.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Chad_Peets__Riverpoint_Capital.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">a75baddefdb68c82804c8868024c11fc9d01da0c</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:59 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-why-you-need-a-cro-pre-product-why-remote-sales-teams-do-not-work-how-snowflake-built-a-sales-machine-with-chad-peets</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Fri, 07 Nov 2025 — Score: 75 — Directly relevant to building a sales machine and early sales team structure.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: John McMahon on How to Hire, Train &amp; Retain the Best Sales Reps | How Sales Changes in a World of AI | Sales Lessons from Snowflake and MongoDB | How to Create and Drive a Sales Process with Urgency</title>
+      <description>Show: 20VC — Originally: Fri, 28 Nov 2025 — Score: 75 — Good focus on enterprise sales hiring, training, and process, relevant to GTM and potentially co-founder search.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/20Sales__John_Mcmahon.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">50a8c5c69ff6942ff2d877554c471cca72040465</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:57 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-john-mcmahon-on-how-to-hire-train-retain-the-best-sales-reps-how-sales-changes-in-a-world-of-ai-sales-lessons-from-snowflake-and-mongodb-how-to-create-and-drive-a-sales-process-with-urgency</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Fri, 28 Nov 2025 — Score: 75 — Good focus on enterprise sales hiring, training, and process, relevant to GTM and potentially co-founder search.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: ElevenLabs: Why We Set a 20x Sales Quota | How to Structure Sales Compensation Plans | Customer Success: 'Total BS' or Growth Engine? | Building an AI Sales Machine: What Tools &amp; Tactics Must CROs Adopt Today with Carles Reina</title>
+      <description>Show: 20VC — Originally: Sat, 11 Apr 2026 — Score: 75 — Directly relevant to sales compensation, structuring sales teams, and AI sales tools.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/20Sales__Carles_Reina__ElevenLabs_2_Updated.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">d997f93e6bdd16ae5c724a702fb3e91c9c8e8c3f</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:56 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-elevenlabs-why-we-set-a-20x-sales-quota-how-to-structure-sales-compensation-plans-customer-success-total-bs-or-growth-engine-building-an-ai-sales-machine-what-tools-tactics-must-cros-adopt-today-with-carles-reina</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Sat, 11 Apr 2026 — Score: 75 — Directly relevant to sales compensation, structuring sales teams, and AI sales tools.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: From $2M ARR to $40M ARR: The Playbook | How to Use AI To Supercharge Your Sales Team | Why Pipeline Reviews are BS | The Sales Call Script that Closes 99% of Prospects and How to Hire the Best Sales Reps with Kyle Norton, CRO @ Owner</title>
+      <description>Show: 20VC — Originally: Fri, 30 May 2025 — Score: 80 — Good focus on sales playbook, AI in sales, and hiring sales reps, relevant to GTM and sales co-founder themes.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Kyle_Norton__Owner.com.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">992ff4471b204341ff325ea666dfa2bced5a1429</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:55 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-from-2m-arr-to-40m-arr-the-playbook-how-to-use-ai-to-supercharge-your-sales-team-why-pipeline-reviews-are-bs-the-sales-call-script-that-closes-99-of-prospects-and-how-to-hire-the-best-sales-reps-with-kyle-norton-cro-owner</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Fri, 30 May 2025 — Score: 80 — Good focus on sales playbook, AI in sales, and hiring sales reps, relevant to GTM and sales co-founder themes.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: Biggest Lessons Scaling Hubspot from $0-$100M in ARR, The Framework for How Startups Should Scale into the Enterprise, How to do Channel Partnerships Right and How to Construct Sales Comp Plans Early On with Mark Roberge</title>
+      <description>Show: 20VC — Originally: Fri, 12 Jul 2024 — Score: 85 — Directly relevant: scaling sales to $100M ARR, enterprise sales, channel partnerships, sales comp plans.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Mark_Roberge_Levelled.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">6323d3a2844bf36c42534941ddea9cde1dce1301</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:53 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-biggest-lessons-scaling-hubspot-from-0-100m-in-arr-the-framework-for-how-startups-should-scale-into-the-enterprise-how-to-do-channel-partnerships-right-and-how-to-construct-sales-comp-plans-early-on-with-mark-roberge</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Fri, 12 Jul 2024 — Score: 85 — Directly relevant: scaling sales to $100M ARR, enterprise sales, channel partnerships, sales comp plans.</itunes:summary>
+    </item>
+    <item>
+      <title>20Sales: How to Layer Enterprise Sales on PLG | How to Sell AI Tools To Enterprises That Are Scared | Should Reps Own Their Own Pipeline | Mistakes All Founders Make When Moving From Founder-Led to Rep-Led Sales with Kim Graves</title>
+      <description>Show: 20VC — Originally: Fri, 27 Jun 2025 — Score: 85 — Directly addresses enterprise sales, founder-led sales transition, and selling AI to enterprises.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Kim_Graves3.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">bd708d53195ab574a02477a40b7fc10139e03fc3</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:52 +0000</pubDate>
+      <link>https://thetwentyminutevc.libsyn.com/20sales-how-to-layer-enterprise-sales-on-plg-how-to-sell-ai-tools-to-enterprises-that-are-scared-should-reps-own-their-own-pipeline-mistakes-all-founders-make-when-moving-from-founder-led-to-rep-led-sales-with-kim-graves</link>
+      <itunes:author>20VC</itunes:author>
+      <itunes:summary>Show: 20VC — Originally: Fri, 27 Jun 2025 — Score: 85 — Directly addresses enterprise sales, founder-led sales transition, and selling AI to enterprises.</itunes:summary>
+    </item>
+    <item>
+      <title>#420 - How to Build the Perfect Sales Team, Role by Role | Mark, Nick, &amp; Armand</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Thu, 30 Jan 2025 — Score: 75 — Addresses building a sales team and founder involvement, relevant to GTM co-founder and early sales.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC7091304786.mp3?updated=1738204266" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">6b9c44a23447606957884e62bc541d391128b1a0</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC7091304786.mp3?updated=1738204266</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Thu, 30 Jan 2025 — Score: 75 — Addresses building a sales team and founder involvement, relevant to GTM co-founder and early sales.</itunes:summary>
+    </item>
+    <item>
+      <title>#462 - The Exact Strategy to Get Stakeholders to Say YES to 7-Figure Deals | Max Licht</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Tue, 20 May 2025 — Score: 75 — Highly relevant to navigating complex enterprise sales and stakeholder management in large deals.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC9838571820.mp3?updated=1751312293" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">e5efaea88584524808301bff8f3ee57164ba059d</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC9838571820.mp3?updated=1751312293</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Tue, 20 May 2025 — Score: 75 — Highly relevant to navigating complex enterprise sales and stakeholder management in large deals.</itunes:summary>
+    </item>
+    <item>
+      <title>Drive Deal Velocity with This Stupid Simple Tactic | Bite Sized Tactics</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Mon, 09 Jun 2025 — Score: 75 — Directly addresses deal velocity, a key challenge in early enterprise GTM.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC3971250667.mp3?updated=1749225729" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">0600ab50973dbd60fa31e2088c10869549e2ab2f</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC3971250667.mp3?updated=1749225729</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Mon, 09 Jun 2025 — Score: 75 — Directly addresses deal velocity, a key challenge in early enterprise GTM.</itunes:summary>
+    </item>
+    <item>
+      <title>#481 - Cold Email Strategy That Books 8x More Meetings (Even in 2025): The Reply Method</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Mon, 21 Jul 2025 — Score: 75 — Cold email strategy for booking meetings is highly relevant to early-stage GTM.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC6879508337.mp3?updated=1753101848" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">c364c090a6d079d69cee64138e6b14e0db0aeedd</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC6879508337.mp3?updated=1753101848</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Mon, 21 Jul 2025 — Score: 75 — Cold email strategy for booking meetings is highly relevant to early-stage GTM.</itunes:summary>
+    </item>
+    <item>
+      <title>#537 - How to Get Executive Intros Through Your Champion | Christine Nolan</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Thu, 08 Jan 2026 — Score: 75 — Excellent for navigating enterprise sales, multithreading, and champion building, directly relevant to GTM in Mittelstand.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC5848712167.mp3?updated=1768102598" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">cf86ba99d9c989e7b24db056325ed2e005dbb46d</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC5848712167.mp3?updated=1768102598</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Thu, 08 Jan 2026 — Score: 75 — Excellent for navigating enterprise sales, multithreading, and champion building, directly relevant to GTM in Mittelstand.</itunes:summary>
+    </item>
+    <item>
+      <title>#540 - Cold Call Masterclass: The Perfect Script (With LIVE Calls to Prove It)</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Tue, 20 Jan 2026 — Score: 75 — Cold calling masterclass with live calls is highly relevant for founder-led sales.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC6303200218.mp3?updated=1768859714" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">0c49189135a56a91d316bef703e87b4464e01a55</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC6303200218.mp3?updated=1768859714</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Tue, 20 Jan 2026 — Score: 75 — Cold calling masterclass with live calls is highly relevant for founder-led sales.</itunes:summary>
+    </item>
+    <item>
+      <title>#560 - Inside a $3.6M Sale: From 40-Person Demo to Brutal Negotiation</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Tue, 31 Mar 2026 — Score: 75 — Detailed breakdown of a large enterprise sale, including negotiation and managing committees.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC6235515288.mp3?updated=1774894550" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">68cb9b40e6af919272dc4cdb59c8f07504ed9853</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC6235515288.mp3?updated=1774894550</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Tue, 31 Mar 2026 — Score: 75 — Detailed breakdown of a large enterprise sale, including negotiation and managing committees.</itunes:summary>
+    </item>
+    <item>
+      <title>#403 - How to Run a Perfect Proof of Concept | Deren Rehr-Davis</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Tue, 24 Dec 2024 — Score: 80 — Directly relevant to converting pilots to paid contracts, especially in enterprise sales.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC5325904118.mp3?updated=1737406126" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">fe962e50f1ff5eb5a61d742cf50e30b1a073b5fc</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC5325904118.mp3?updated=1737406126</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Tue, 24 Dec 2024 — Score: 80 — Directly relevant to converting pilots to paid contracts, especially in enterprise sales.</itunes:summary>
+    </item>
+    <item>
+      <title>#548 - Executive Sales Masterclass: Close Big Deals At Power (Step-by-Step)</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Tue, 17 Feb 2026 — Score: 80 — Focus on closing big deals at the executive level is highly relevant to enterprise sales.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC8307604153.mp3?updated=1771453055" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">523b0ea51ccc6fd44b86bca13186e18311c3496d</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC8307604153.mp3?updated=1771453055</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Tue, 17 Feb 2026 — Score: 80 — Focus on closing big deals at the executive level is highly relevant to enterprise sales.</itunes:summary>
+    </item>
+    <item>
+      <title>#333 - Founder-Led Sales: Taking Your Startup to Market (Peter Kazanjy, Atrium)</title>
+      <description>Show: 30 Minutes to President's Club — Originally: Thu, 01 Aug 2024 — Score: 85 — Directly addresses founder-led sales and early customer acquisition, including pilots.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/THMPC2285283273.mp3?updated=1728354296" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">91a180b6ab6c88e2b533fb43b694c24cfe3f88ac</guid>
+      <pubDate>Sun, 26 Apr 2026 18:51:46 +0000</pubDate>
+      <link>https://pdst.fm/e/traffic.megaphone.fm/THMPC2285283273.mp3?updated=1728354296</link>
+      <itunes:author>30 Minutes to President's Club</itunes:author>
+      <itunes:summary>Show: 30 Minutes to President's Club — Originally: Thu, 01 Aug 2024 — Score: 85 — Directly addresses founder-led sales and early customer acquisition, including pilots.</itunes:summary>
+    </item>
+  </channel>
+</rss>
