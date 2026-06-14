@@ -6,10 +6,21 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 10:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:18:12 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>David Byrne: Tiny Desk Concert</title>
+      <description>Show: NPR Music — Originally: Mon, 01 Dec 2025 — YouTube · 19 min · Robin Hilton | December 1, 2025 David Byrne has a long history of staging elaborate live shows, often with a sprawling cast of musicians, highly choreographed dancing and unusual instrumentation. So when we learned he wanted to have more than a dozen performers at the Tiny Desk, playing everything…</description>
+      <enclosure url="https://cianhammo.github.io/podcast-queue/audio/PNmcF6eRE7w.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">yt-PNmcF6eRE7w</guid>
+      <pubDate>Sun, 14 Jun 2026 16:18:12 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=PNmcF6eRE7w</link>
+      <itunes:author>NPR Music</itunes:author>
+      <itunes:summary>Show: NPR Music — Originally: Mon, 01 Dec 2025 — YouTube · 19 min · Robin Hilton | December 1, 2025 David Byrne has a long history of staging elaborate live shows, often with a sprawling cast of musicians, highly choreographed dancing and unusual instrumentation. So when we learned he wanted to have more than a dozen performers at the Tiny Desk, playing everything…</itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/PNmcF6eRE7w/maxresdefault.jpg"/>
+    </item>
     <item>
       <title>8 // Principled products with Max Schoening</title>
       <description>Show: Metamuse — Originally: Sat, 11 Jul 2020 — Metamuse — Max Schoening of GitHub on principled design, authentic marketing, and tools for thought, with Mark McGranaghan and Adam Wiggins.</description>
