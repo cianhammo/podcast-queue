@@ -6,10 +6,40 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 22:34:57 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>159. Young Putin, the KGB and the Soviet Union</title>
+      <description>Show: The Rest Is History — Originally: Mon, 07 Mar 2022 — Part 1 of 4 on the Soviet Union, Russia and Putin: Brezhnev, Putin's formative years and early KGB career, and Gorbachev's descent into chaos.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT7336670203.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">trih-159</guid>
+      <pubDate>Sat, 19 Sep 2026 22:34:57 +0000</pubDate>
+      <link>https://therestishistory.com/episodes</link>
+      <itunes:author>The Rest Is History</itunes:author>
+      <itunes:summary>Show: The Rest Is History — Originally: Mon, 07 Mar 2022 — Part 1 of 4 on the Soviet Union, Russia and Putin: Brezhnev, Putin's formative years and early KGB career, and Gorbachev's descent into chaos.</itunes:summary>
+    </item>
+    <item>
+      <title>160. The Fall of the Soviet Union</title>
+      <description>Show: The Rest Is History — Originally: Tue, 08 Mar 2022 — Part 2 of 4: from the 70th anniversary of the Russian Revolution in 1987 to the fall of the Soviet Union on Christmas Day 1991.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT9472343994.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">trih-160</guid>
+      <pubDate>Sat, 19 Sep 2026 22:34:57 +0000</pubDate>
+      <link>https://therestishistory.com/episodes</link>
+      <itunes:author>The Rest Is History</itunes:author>
+      <itunes:summary>Show: The Rest Is History — Originally: Tue, 08 Mar 2022 — Part 2 of 4: from the 70th anniversary of the Russian Revolution in 1987 to the fall of the Soviet Union on Christmas Day 1991.</itunes:summary>
+    </item>
+    <item>
+      <title>161. Yeltsin, Economic Chaos and President Putin</title>
+      <description>Show: The Rest Is History — Originally: Wed, 09 Mar 2022 — Part 3 of 4: the utter collapse of 1990s Russia under Yeltsin, and how it explains what ordinary Russians see in Putin.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT3048619920.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">trih-161</guid>
+      <pubDate>Sat, 19 Sep 2026 22:34:57 +0000</pubDate>
+      <link>https://therestishistory.com/episodes</link>
+      <itunes:author>The Rest Is History</itunes:author>
+      <itunes:summary>Show: The Rest Is History — Originally: Wed, 09 Mar 2022 — Part 3 of 4: the utter collapse of 1990s Russia under Yeltsin, and how it explains what ordinary Russians see in Putin.</itunes:summary>
+    </item>
     <item>
       <title>Exploring AI in the patent profession</title>
       <description>Show: EPO Talk innovation — Originally: Tue, 14 Oct 2025 — Score: 100 — How is artificial intelligence changing the way patent professionals search, draft and work with patents?</description>
