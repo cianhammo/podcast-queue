@@ -6,10 +6,20 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:34:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 22:39:31 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>162. Putin's Russia</title>
+      <description>Show: The Rest Is History — Originally: Thu, 10 Mar 2022 — Part 4 of 4: the climax of Putin's rise from obscure KGB agent to uncrowned Tsar, his relationship with the oligarchs, and how Russian democracy became show business.</description>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT4575290976.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">trih-162</guid>
+      <pubDate>Sat, 19 Sep 2026 22:39:31 +0000</pubDate>
+      <link>https://therestishistory.com/episodes</link>
+      <itunes:author>The Rest Is History</itunes:author>
+      <itunes:summary>Show: The Rest Is History — Originally: Thu, 10 Mar 2022 — Part 4 of 4: the climax of Putin's rise from obscure KGB agent to uncrowned Tsar, his relationship with the oligarchs, and how Russian democracy became show business.</itunes:summary>
+    </item>
     <item>
       <title>159. Young Putin, the KGB and the Soviet Union</title>
       <description>Show: The Rest Is History — Originally: Mon, 07 Mar 2022 — Part 1 of 4 on the Soviet Union, Russia and Putin: Brezhnev, Putin's formative years and early KGB career, and Gorbachev's descent into chaos.</description>
