@@ -6,10 +6,100 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:11:54 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>The Kazakh Famine</title>
+      <description>Show: The Eurasian Knot — Originally: Fri, 22 Feb 2019 — Sarah Cameron on the 1930-33 famine that killed roughly a third of all Kazakhs and ended Kazakh nomadism. The central event of modern Kazakh history.</description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/6744b7b7507c8fc412f628e8/e/https%3A%2F%2Feuraknot.org%2F%3Fp%3D7689/media.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">euraknot-kazakh-famine</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://www.euraknot.org/</link>
+      <itunes:author>The Eurasian Knot</itunes:author>
+      <itunes:summary>Show: The Eurasian Knot — Originally: Fri, 22 Feb 2019 — Sarah Cameron on the 1930-33 famine that killed roughly a third of all Kazakhs and ended Kazakh nomadism. The central event of modern Kazakh history.</itunes:summary>
+    </item>
+    <item>
+      <title>The Cleansing of Nagorno-Karabakh</title>
+      <description>Show: The Eurasian Knot — Originally: Fri, 27 Oct 2023 — Recorded weeks after Azerbaijan's 2023 offensive emptied Karabakh of its Armenian population. The most recent turn in the Armenian story.</description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/6744b7b7507c8fc412f628e8/e/https%3A%2F%2Feuraknot.org%2F%3Fp%3D11845/media.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">euraknot-karabakh-2023</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://www.euraknot.org/</link>
+      <itunes:author>The Eurasian Knot</itunes:author>
+      <itunes:summary>Show: The Eurasian Knot — Originally: Fri, 27 Oct 2023 — Recorded weeks after Azerbaijan's 2023 offensive emptied Karabakh of its Armenian population. The most recent turn in the Armenian story.</itunes:summary>
+    </item>
+    <item>
+      <title>Russian Conquest of Central Asia</title>
+      <description>Show: The Eurasian Knot — Originally: Fri, 03 Sep 2021 — Alexander Morrison on how the Tsarist empire swallowed the khanates of Khiva, Bukhara and Kokand. The origin story for all five modern republics.</description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/6744b7b7507c8fc412f628e8/e/https%3A%2F%2Feuraknot.org%2F%3Fp%3D10752/media.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">euraknot-conquest-ca</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://www.euraknot.org/</link>
+      <itunes:author>The Eurasian Knot</itunes:author>
+      <itunes:summary>Show: The Eurasian Knot — Originally: Fri, 03 Sep 2021 — Alexander Morrison on how the Tsarist empire swallowed the khanates of Khiva, Bukhara and Kokand. The origin story for all five modern republics.</itunes:summary>
+    </item>
+    <item>
+      <title>Adeeb Khalid: Central Asia, A New History from the Imperial Conquests to the Present</title>
+      <description>Show: New Books in Central Asian Studies — Originally: Wed, 09 Jul 2025 — The author of the standard one-volume history of Central Asia. Best single starting point if you want the whole region in one sitting.</description>
+      <enclosure url="https://injector.simplecastaudio.com/cfa596c9-7ed7-4f69-ae77-ff3bec08a375/episodes/4e7bd74c-7a65-45b8-954b-c592752e4edc/audio/128/default.mp3?aid=rss_feed" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">nbcas-khalid-ca-history</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://newbooksnetwork.com/</link>
+      <itunes:author>New Books in Central Asian Studies</itunes:author>
+      <itunes:summary>Show: New Books in Central Asian Studies — Originally: Wed, 09 Jul 2025 — The author of the standard one-volume history of Central Asia. Best single starting point if you want the whole region in one sitting.</itunes:summary>
+    </item>
+    <item>
+      <title>Joanna Lillis: Silk Mirage, Through the Looking Glass in Uzbekistan</title>
+      <description>Show: New Books in Central Asian Studies — Originally: Thu, 19 Feb 2026 — A reporter who has covered Uzbekistan for years on the country after Karimov. Present-day and reported rather than academic.</description>
+      <enclosure url="https://injector.simplecastaudio.com/cfa596c9-7ed7-4f69-ae77-ff3bec08a375/episodes/3152a235-f1a9-4cf9-981f-174401e39176/audio/128/default.mp3?aid=rss_feed" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">nbcas-lillis-silk-mirage</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://newbooksnetwork.com/</link>
+      <itunes:author>New Books in Central Asian Studies</itunes:author>
+      <itunes:summary>Show: New Books in Central Asian Studies — Originally: Thu, 19 Feb 2026 — A reporter who has covered Uzbekistan for years on the country after Karimov. Present-day and reported rather than academic.</itunes:summary>
+    </item>
+    <item>
+      <title>Survivor Objects and the Lost World of Ottoman Armenians</title>
+      <description>Show: Ottoman History Podcast — Originally: Mon, 25 Mar 2019 — Heghnar Watenpaugh on a single illuminated manuscript that survived the genocide, used to tell the wider story of Ottoman Armenian life and its destruction.</description>
+      <enclosure url="http://feeds.soundcloud.com/stream/595525881-ottoman-history-podcast-survivor-objects-and-the-lost-world-of-ottoman-armenians-heghnar-watenpaugh.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">ohp-survivor-objects</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://www.ottomanhistorypodcast.com/</link>
+      <itunes:author>Ottoman History Podcast</itunes:author>
+      <itunes:summary>Show: Ottoman History Podcast — Originally: Mon, 25 Mar 2019 — Heghnar Watenpaugh on a single illuminated manuscript that survived the genocide, used to tell the wider story of Ottoman Armenian life and its destruction.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 240: Inside Moldova's elections, what comes next?</title>
+      <description>Show: Talk Eastern Europe — Originally: Fri, 17 Oct 2025 — Current-affairs take on Moldova's EU-versus-Russia politics. The most accessible Moldova episode I could find anywhere.</description>
+      <enclosure url="https://anchor.fm/s/fffeb140/podcast/play/109806020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-17%2F1fcb845e-840f-655c-c299-4222fa311297.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">tee-240-moldova</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://talkeasterneurope.eu/</link>
+      <itunes:author>Talk Eastern Europe</itunes:author>
+      <itunes:summary>Show: Talk Eastern Europe — Originally: Fri, 17 Oct 2025 — Current-affairs take on Moldova's EU-versus-Russia politics. The most accessible Moldova episode I could find anywhere.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 5: Transnistria</title>
+      <description>Show: Moldova Matters Podcast — Originally: Wed, 31 Jul 2024 — 75 minutes on the frozen conflict from a journalist based in Chisinau. The only deep-dive on Transnistria I found in English.</description>
+      <enclosure url="https://api.substack.com/feed/podcast/147201729/4da8a94cb86a08799ab43c348964f2b3.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">moldova-matters-05-transnistria</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://www.moldovamatters.md/podcast</link>
+      <itunes:author>Moldova Matters Podcast</itunes:author>
+      <itunes:summary>Show: Moldova Matters Podcast — Originally: Wed, 31 Jul 2024 — 75 minutes on the frozen conflict from a journalist based in Chisinau. The only deep-dive on Transnistria I found in English.</itunes:summary>
+    </item>
+    <item>
+      <title>Night on The Transnistrian Border</title>
+      <description>Show: The Eastern Border — Originally: Sat, 05 Aug 2023 — Short, 22 minutes, and atmospheric rather than analytical. Included mainly so you can hear whether this host's style works for you.</description>
+      <enclosure url="https://sphinx.acast.com/p/acast/s/theeasternborder/e/64cdda7477a0230011aef4e3/media.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">eastern-border-transnistria-night</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:54 +0000</pubDate>
+      <link>https://theeasternborder.lv/</link>
+      <itunes:author>The Eastern Border</itunes:author>
+      <itunes:summary>Show: The Eastern Border — Originally: Sat, 05 Aug 2023 — Short, 22 minutes, and atmospheric rather than analytical. Included mainly so you can hear whether this host's style works for you.</itunes:summary>
+    </item>
     <item>
       <title>162. Putin's Russia</title>
       <description>Show: The Rest Is History — Originally: Thu, 10 Mar 2022 — Part 4 of 4: the climax of Putin's rise from obscure KGB agent to uncrowned Tsar, his relationship with the oligarchs, and how Russian democracy became show business.</description>
