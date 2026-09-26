@@ -6,10 +6,20 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 18:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:27:59 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>UNLOCKED: Last Ditch Bar And The Never-Ending Accountability Session [Starts At 31:45]</title>
+      <description>Show: Blocked and Reported — Originally: Tue, 22 Sep 2026 — Blocked and Reported: Jesse Singal and Katie Herzog on the 3+ hour accountability session at Last Ditch, the Greenfield, Mass. queer bar split over a Saturday mask-optional night.</description>
+      <enclosure url="https://api.substack.com/api/v1/audio/upload/dbc765ab-12a6-4229-9524-545c92a66d4f/src" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">bar-last-ditch-unlocked</guid>
+      <pubDate>Sat, 26 Sep 2026 09:27:59 +0000</pubDate>
+      <link>https://www.blockedandreported.org/p/unlocked-premium-last-ditch-bar-and</link>
+      <itunes:author>Blocked and Reported</itunes:author>
+      <itunes:summary>Show: Blocked and Reported — Originally: Tue, 22 Sep 2026 — Blocked and Reported: Jesse Singal and Katie Herzog on the 3+ hour accountability session at Last Ditch, the Greenfield, Mass. queer bar split over a Saturday mask-optional night.</itunes:summary>
+    </item>
     <item>
       <title>The Kazakh Famine</title>
       <description>Show: The Eurasian Knot — Originally: Fri, 22 Feb 2019 — Sarah Cameron on the 1930-33 famine that killed roughly a third of all Kazakhs and ended Kazakh nomadism. The central event of modern Kazakh history.</description>
