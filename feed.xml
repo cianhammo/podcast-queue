@@ -6,10 +6,40 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:11:30 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>Don Boudreaux on Buchanan</title>
+      <description>Show: EconTalk — Originally: Mon, 11 Jan 2021 — On James Buchanan, who founded public choice, and what his ideas mean for how we judge government.</description>
+      <enclosure url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/b482e2c1-ac18-46fb-ac69-8a1094aac6fc/audio/9f1533f1-05e8-47c7-a682-7740f2f35a5e/default_tc.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">econtalk-boudreaux-buchanan</guid>
+      <pubDate>Mon, 28 Sep 2026 16:11:30 +0000</pubDate>
+      <link>https://www.econtalk.org/don-boudreaux-on-buchanan/</link>
+      <itunes:author>EconTalk</itunes:author>
+      <itunes:summary>Show: EconTalk — Originally: Mon, 11 Jan 2021 — On James Buchanan, who founded public choice, and what his ideas mean for how we judge government.</itunes:summary>
+    </item>
+    <item>
+      <title>Michael Munger on Private and Public Rent-Seeking (and Chilean Buses)</title>
+      <description>Show: EconTalk — Originally: Mon, 23 Aug 2010 — Munger on rent-seeking, a core public choice idea, told through the story of buses in Santiago.</description>
+      <enclosure url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/8de1a1f6-6865-4508-bde9-76dee5dc38b1/mungercompetition_tc.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">econtalk-munger-rent-seeking</guid>
+      <pubDate>Mon, 28 Sep 2026 16:11:30 +0000</pubDate>
+      <link>https://www.econtalk.org/munger-on-private-and-public-rent-seeking-(and-chilean-buses)/</link>
+      <itunes:author>EconTalk</itunes:author>
+      <itunes:summary>Show: EconTalk — Originally: Mon, 23 Aug 2010 — Munger on rent-seeking, a core public choice idea, told through the story of buses in Santiago.</itunes:summary>
+    </item>
+    <item>
+      <title>Don Boudreaux on Public Choice</title>
+      <description>Show: EconTalk — Originally: Mon, 15 Mar 2010 — Boudreaux explains the basics of public choice: politicians and voters respond to incentives just like people in markets. The best introduction EconTalk has.</description>
+      <enclosure url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/7c916233-b1c5-48f9-bf76-50f77828c13b/boudreauxpublicchoice_tc.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">econtalk-boudreaux-public-choice</guid>
+      <pubDate>Mon, 28 Sep 2026 16:11:30 +0000</pubDate>
+      <link>https://www.econtalk.org/don-boudreaux-on-public-choice/</link>
+      <itunes:author>EconTalk</itunes:author>
+      <itunes:summary>Show: EconTalk — Originally: Mon, 15 Mar 2010 — Boudreaux explains the basics of public choice: politicians and voters respond to incentives just like people in markets. The best introduction EconTalk has.</itunes:summary>
+    </item>
     <item>
       <title>Michael Munger on Obedience to the Unenforceable</title>
       <description>Show: EconTalk — Originally: Mon, 19 Jun 2023 — Munger and Roberts on Lord Moulton's middle ground between law and free choice. The episode the Sept 2026 public choice episode keeps referring back to.</description>
