@@ -6,10 +6,20 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:14:56 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>The Glimmer in our Eye - with Grant Sanderson from 3Blue1Brown</title>
+      <description>Show: The Numberphile Podcast — Originally: Mon, 28 Sep 2026 — Brady Haran talks with Grant Sanderson of 3Blue1Brown.</description>
+      <enclosure url="https://static1.squarespace.com/static/5b2cf993266c07b1ca7a812f/t/6aba82f143923d3dce089a68/1790608165944/sanderson_ai.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">numberphile-sanderson-ai</guid>
+      <pubDate>Tue, 29 Sep 2026 08:14:56 +0000</pubDate>
+      <link>https://www.numberphile.com/podcast/sanderson-ai</link>
+      <itunes:author>The Numberphile Podcast</itunes:author>
+      <itunes:summary>Show: The Numberphile Podcast — Originally: Mon, 28 Sep 2026 — Brady Haran talks with Grant Sanderson of 3Blue1Brown.</itunes:summary>
+    </item>
     <item>
       <title>Don Boudreaux on Buchanan</title>
       <description>Show: EconTalk — Originally: Mon, 11 Jan 2021 — On James Buchanan, who founded public choice, and what his ideas mean for how we judge government.</description>
