@@ -6,10 +6,21 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:14:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:02:24 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>The Buckmaster Interview (Navier-Stokes) - Numberphile</title>
+      <description>Show: Numberphile — Originally: Tue, 29 Sep 2026 — YouTube · 46 min · Tristan Buckmaster speaks about his role in the controversial Navier-Stokes solution. We are seeking an interview with OpenAI too. More links &amp; important information in full description below ↓↓↓  Note: Since the video was finalised and uploaded, we have heard back from OpenAI and we're trying to s…</description>
+      <enclosure url="https://cianhammo.github.io/podcast-queue/audio/Mzbtj5nkMXI.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">yt-Mzbtj5nkMXI</guid>
+      <pubDate>Wed, 30 Sep 2026 14:02:24 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=Mzbtj5nkMXI</link>
+      <itunes:author>Numberphile</itunes:author>
+      <itunes:summary>Show: Numberphile — Originally: Tue, 29 Sep 2026 — YouTube · 46 min · Tristan Buckmaster speaks about his role in the controversial Navier-Stokes solution. We are seeking an interview with OpenAI too. More links &amp; important information in full description below ↓↓↓  Note: Since the video was finalised and uploaded, we have heard back from OpenAI and we're trying to s…</itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi_webp/Mzbtj5nkMXI/maxresdefault.webp"/>
+    </item>
     <item>
       <title>The Glimmer in our Eye - with Grant Sanderson from 3Blue1Brown</title>
       <description>Show: The Numberphile Podcast — Originally: Mon, 28 Sep 2026 — Brady Haran talks with Grant Sanderson of 3Blue1Brown.</description>
