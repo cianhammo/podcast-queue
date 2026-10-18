@@ -6,10 +6,32 @@
     <atom:link href="https://cianhammo.github.io/podcast-queue/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Curated GTM / co-founder / fundraising / lecture episodes.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:52:40 +0000</lastBuildDate>
     <itunes:author>Cian</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business"/>
+    <item>
+      <title>There's never been a better time to go into math</title>
+      <description>Show: 3Blue1Brown — Originally: Fri, 16 Oct 2026 — YouTube · 40 min · Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com  If you want a finger on the pulse of how mathematicians are feeling right now,…</description>
+      <enclosure url="https://cianhammo.github.io/podcast-queue/audio/LKrwhjOI8Nc.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">yt-LKrwhjOI8Nc</guid>
+      <pubDate>Sun, 18 Oct 2026 03:52:40 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=LKrwhjOI8Nc</link>
+      <itunes:author>3Blue1Brown</itunes:author>
+      <itunes:summary>Show: 3Blue1Brown — Originally: Fri, 16 Oct 2026 — YouTube · 40 min · Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com  If you want a finger on the pulse of how mathematicians are feeling right now,…</itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi_webp/LKrwhjOI8Nc/maxresdefault.webp"/>
+    </item>
+    <item>
+      <title>No More Heroes - Terence Tao Talks to Numberphile About AI</title>
+      <description>Show: Numberphile — Originally: Thu, 15 Oct 2026 — YouTube · 19 min · A leading light in mathematics for much of his life, Terence Tao discusses the crisis being caused by a massive dump of AI proofs. More links &amp; stuff in full description below ↓↓↓  Our playlist of videos on the current AI issue - https://www.youtube.com/playlist?list=PLVsSL1XVSphg  Terence Tao's ex…</description>
+      <enclosure url="https://cianhammo.github.io/podcast-queue/audio/bAnwMdfcMVw.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">yt-bAnwMdfcMVw</guid>
+      <pubDate>Sun, 18 Oct 2026 03:50:20 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=bAnwMdfcMVw</link>
+      <itunes:author>Numberphile</itunes:author>
+      <itunes:summary>Show: Numberphile — Originally: Thu, 15 Oct 2026 — YouTube · 19 min · A leading light in mathematics for much of his life, Terence Tao discusses the crisis being caused by a massive dump of AI proofs. More links &amp; stuff in full description below ↓↓↓  Our playlist of videos on the current AI issue - https://www.youtube.com/playlist?list=PLVsSL1XVSphg  Terence Tao's ex…</itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi_webp/bAnwMdfcMVw/maxresdefault.webp"/>
+    </item>
     <item>
       <title>Moldova’s Race to Join the EU | David Smith</title>
       <description>Show: Talk Eastern Europe — Originally: Tue, 06 Oct 2026 — David Smith on Moldova's push to join the EU.</description>
